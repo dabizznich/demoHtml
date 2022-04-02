@@ -1,5 +1,5 @@
-# Personal Website
-A beginning HTML Site from the Computing Fundamentals Course used for a homepage.
+# Welcome to my Landing Page
+A personal website used to link to various projects.
 
 # Author
 Kyle Bichich
